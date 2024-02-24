@@ -1,0 +1,94 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmptyMaui.MAUI", "EmptyMaui.MAUI\EmptyMaui.MAUI.csproj", "{BCFD4FD5-36DA-421D-A0CF-6331EDB95BEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmptyMaui", "EmptyMaui\EmptyMaui.csproj", "{6DEA9C6A-667D-49F8-89FA-40A1F595B48B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Zfiles", "Zfiles", "{D2E688E0-17B4-4F69-959A-AC6077C15CF5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\App.xaml = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\App.xaml
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\App.xaml.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\App.xaml.cs
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\AppShell.xaml = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\AppShell.xaml
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\AppShell.xaml.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\AppShell.xaml.cs
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\MauiProgram.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\MauiProgram.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ViewModels", "ViewModels", "{43E03C12-A90D-4A7F-BA7D-84B27F004CDE}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\ViewModels\CarDetailsViewModel.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\ViewModels\CarDetailsViewModel.cs
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\ViewModels\HomeViewModel.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\ViewModels\HomeViewModel.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Views", "Views", "{43006629-8EA9-40B3-B5F0-0FBA463D957E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\CarDetailsView.xaml = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\CarDetailsView.xaml
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\CarDetailsView.xaml.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\CarDetailsView.xaml.cs
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\HomeView.xaml = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\HomeView.xaml
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\HomeView.xaml.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\HomeView.xaml.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{BFAB23D1-57FB-4216-BA1D-CC9422BACB9F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\BestCarItemTemplate.xaml = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\BestCarItemTemplate.xaml
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\BestCarItemTemplate.xaml.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\BestCarItemTemplate.xaml.cs
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\ManufacturerItemTemplate.xaml = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\ManufacturerItemTemplate.xaml
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\ManufacturerItemTemplate.xaml.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\ManufacturerItemTemplate.xaml.cs
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\NearbyCarItemTemplate.xaml = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\NearbyCarItemTemplate.xaml
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\NearbyCarItemTemplate.xaml.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Views\Templates\NearbyCarItemTemplate.xaml.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{40157917-CD26-4C6E-A86D-93FDE5B42862}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Services\CarService.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Services\CarService.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controls", "Controls", "{8136487E-110D-4774-94B1-65A5997DB937}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Evergine", "Evergine", "{12C21AC5-7F33-4E5C-B828-99C57D0269BB}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Controls\Evergine\AppBuilderExtensions.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Controls\Evergine\AppBuilderExtensions.cs
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Controls\Evergine\EvergineView.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Controls\Evergine\EvergineView.cs
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Controls\Evergine\EvergineViewHandler.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Controls\Evergine\EvergineViewHandler.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{BC44E7E1-F01C-4054-BAC3-1886E59D5F26}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Models\Car.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Models\Car.cs
+		..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Models\Manufacturer.cs = ..\..\Downloads\CarRental\CarApp\src\CarRentalApp.Maui\Models\Manufacturer.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCFD4FD5-36DA-421D-A0CF-6331EDB95BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFD4FD5-36DA-421D-A0CF-6331EDB95BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFD4FD5-36DA-421D-A0CF-6331EDB95BEB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BCFD4FD5-36DA-421D-A0CF-6331EDB95BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFD4FD5-36DA-421D-A0CF-6331EDB95BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFD4FD5-36DA-421D-A0CF-6331EDB95BEB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6DEA9C6A-667D-49F8-89FA-40A1F595B48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DEA9C6A-667D-49F8-89FA-40A1F595B48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DEA9C6A-667D-49F8-89FA-40A1F595B48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DEA9C6A-667D-49F8-89FA-40A1F595B48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{43E03C12-A90D-4A7F-BA7D-84B27F004CDE} = {D2E688E0-17B4-4F69-959A-AC6077C15CF5}
+		{43006629-8EA9-40B3-B5F0-0FBA463D957E} = {D2E688E0-17B4-4F69-959A-AC6077C15CF5}
+		{BFAB23D1-57FB-4216-BA1D-CC9422BACB9F} = {43006629-8EA9-40B3-B5F0-0FBA463D957E}
+		{40157917-CD26-4C6E-A86D-93FDE5B42862} = {D2E688E0-17B4-4F69-959A-AC6077C15CF5}
+		{8136487E-110D-4774-94B1-65A5997DB937} = {D2E688E0-17B4-4F69-959A-AC6077C15CF5}
+		{12C21AC5-7F33-4E5C-B828-99C57D0269BB} = {8136487E-110D-4774-94B1-65A5997DB937}
+		{BC44E7E1-F01C-4054-BAC3-1886E59D5F26} = {D2E688E0-17B4-4F69-959A-AC6077C15CF5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F925F91C-69BD-48DC-A39A-63F045514047}
+	EndGlobalSection
+EndGlobal
