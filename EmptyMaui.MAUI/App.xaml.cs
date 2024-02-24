@@ -7,6 +7,7 @@ namespace EmptyMaui.MAUI
             InitializeComponent();
 
             MainPage = new AppShell();
+            App.Current.UserAppTheme = AppTheme.Light;
         }
     }
 }
